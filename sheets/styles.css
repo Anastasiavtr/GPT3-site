@@ -573,6 +573,7 @@ input:focus {
 }
 
 .section__link {
+    padding-left: 10px;
     padding-bottom: 5px;
 }
 
@@ -1192,9 +1193,6 @@ color:#0e0e0e;
         font-size: 14px;
     }
 
-    .link {
-        font-size: 14px;
-    }
 .footer__button {
     margin-bottom: 50px;
 }
