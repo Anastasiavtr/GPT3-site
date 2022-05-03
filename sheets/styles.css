@@ -177,6 +177,7 @@ body {
     border-radius: 3px;
     padding: 16px 41px;
     cursor: pointer;
+    min-width:50px;
 }
 
 .btn:hover {
@@ -185,6 +186,7 @@ body {
 
 .btn--big {
     height: 100%;
+    min-width:70px;
 }
 
 .btn--transparent {
