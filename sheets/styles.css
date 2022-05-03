@@ -394,7 +394,7 @@ input:checked+.header__switcher-item:before {
 
     background-image: url(../img/fa-768x901.png);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
 
     background-position-x: 50%;
     background-position-y: 50%;
